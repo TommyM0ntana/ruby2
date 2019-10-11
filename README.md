@@ -31,3 +31,10 @@ Things you may want to cover:
 |_ | _| _|
 
 |_ | _| _|
+
+
+|x | _| _|
+
+|_ | x| _|
+
+|_ | _| x|
